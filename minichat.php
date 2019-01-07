@@ -20,7 +20,7 @@
         <input type="submit" value="Envoyer" />
     </p>
     </form>
-
+    <p>salut</p>
     <?php
     // Connexion à la base de données
     try
